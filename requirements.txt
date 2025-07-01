@@ -1,0 +1,10 @@
+# requirements.txt para SmartQueue Market - Gestor de Filas Inteligentes
+# Este projeto utiliza apenas bibliotecas padrão do Python 3.6+.
+# Dependências:
+# - tkinter (interface gráfica, incluído no Python)
+# - collections (para deque no BFS, incluído no Python)
+# - random (geração de obstáculos, incluído no Python)
+# - time (medição de desempenho, incluído no Python)
+# - unittest (testes unitários, incluído no Python)
+
+# Nenhuma dependência externa precisa ser instalada via pip.
